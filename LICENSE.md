@@ -1,6 +1,6 @@
 ISC License
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2022 Freja Ejdrup Andersen, Trine Søs Mølgaard, Anne Mathilde Gøtke & Emil Vang Olsen
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
